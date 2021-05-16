@@ -305,7 +305,7 @@ button:focus {
 =============================*/
 
 .header-bg-img {
-    background-image: url(fondo.jpg);
+    background-image: url(fondo.webp);
     position: relative;
     background-size: cover;
     background-position: center center;
